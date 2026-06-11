@@ -3,3 +3,4 @@ MÔ TẢ QUÁ TRÌNH THỰC HIỆN:
 Em đã sử dụng công cụ AI (Gemini) để hỗ trợ tìm kiếm giải pháp và tối ưu hóa mã nguồn cho dự án 
 Các câu lệnh chính tập trung vào việc tạo cấu trúc khung, sửa lỗi lập trình và tối ưu hàm xử lý.Em tự thực hiện phần lên ý tưởng, thiết kế giao diện và viết các logic vận hành cốt lõi.
 Em tham khảo AI để rà soát lỗi cú pháp, chuẩn hóa mã nguồn và viết các hàm bổ trợ.Khó khăn gặp phải là việc xử lý lỗi hiển thị giao diện và cấu hình triển khai trang web
+Đường dẫn[https://nhatnguyen121007-cell.github.io/251CTT027_CaoNhatNguyen_ThiGiuaKyTKWebsiteee/?authuser=0]
